@@ -1,0 +1,38 @@
+{% comment %} Pick a random card from the array {% endcomment %}
+{% assign random_index = 'now' | date: '%j' | modulo: cards.size %}
+{% assign random_card = cards[random_index] %}
+
+<div class="layout">
+  <div class="columns">
+    <div class="column">
+      <div class="markdown">
+        <!-- Header -->
+        <span class="label">Today's Word</span>
+      </br>
+        <!-- The word (large) -->
+        <h2 data-pixel-perfect="true">{{ random_card.word }}</h2>
+
+        <!-- Meaning -->
+        <h3 data-pixel-perfect="true">
+          {{ random_card.meaning }}
+        </h3>
+
+      </br>
+        <!-- Pronounciation -->
+        <p class="text--gray-2" data-pixel-perfect="true"><i>Pronounced: {{ random_card.pronunciation }}</i></p>
+
+        <!-- Refresh time -->
+        <span class="label label--small text--right">
+          Updated {{ "now" | date: "%H:%M" }}
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Bottom bar -->
+<div class="title_bar">
+  <span class="title">Greek Word of the Day</span>
+  <span class="instance">Language Learning</span>
+</div>
+</div>
