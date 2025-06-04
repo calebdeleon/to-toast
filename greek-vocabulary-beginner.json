@@ -1,0 +1,1404 @@
+{
+  "cards": [
+    {
+      "word": "εγώ",
+      "pronunciation": "egó",
+      "meaning": "I",
+      "example": "Εγώ μαθαίνω ελληνικά.",
+      "category": "pronouns"
+    },
+    {
+      "word": "εσύ",
+      "pronunciation": "esí",
+      "meaning": "you",
+      "example": "Εσύ είσαι καλός φίλος.",
+      "category": "pronouns"
+    },
+    {
+      "word": "αυτός",
+      "pronunciation": "aftós",
+      "meaning": "he",
+      "example": "Αυτός είναι δάσκαλος.",
+      "category": "pronouns"
+    },
+    {
+      "word": "αυτή",
+      "pronunciation": "aftí",
+      "meaning": "she",
+      "example": "Αυτή διαβάζει βιβλίο.",
+      "category": "pronouns"
+    },
+    {
+      "word": "αυτό",
+      "pronunciation": "aftó",
+      "meaning": "it",
+      "example": "Αυτό είναι ωραίο.",
+      "category": "pronouns"
+    },
+    {
+      "word": "εμείς",
+      "pronunciation": "emís",
+      "meaning": "we",
+      "example": "Εμείς πάμε στο πάρκο.",
+      "category": "pronouns"
+    },
+    {
+      "word": "εσείς",
+      "pronunciation": "esís",
+      "meaning": "you (plural/formal)",
+      "example": "Εσείς είστε καλοί μαθητές.",
+      "category": "pronouns"
+    },
+    {
+      "word": "αυτοί",
+      "pronunciation": "aftí",
+      "meaning": "they (masculine)",
+      "example": "Αυτοί παίζουν ποδόσφαιρο.",
+      "category": "pronouns"
+    },
+    {
+      "word": "αυτές",
+      "pronunciation": "aftés",
+      "meaning": "they (feminine)",
+      "example": "Αυτές τρώνε μαζί.",
+      "category": "pronouns"
+    },
+    {
+      "word": "αυτά",
+      "pronunciation": "aftá",
+      "meaning": "they (neuter)",
+      "example": "Αυτά είναι βιβλία.",
+      "category": "pronouns"
+    },
+    {
+      "word": "αυτός",
+      "pronunciation": "aftós",
+      "meaning": "this",
+      "example": "Αυτός ο καφές είναι ζεστός.",
+      "category": "pronouns"
+    },
+    {
+      "word": "αυτοί",
+      "pronunciation": "aftí",
+      "meaning": "these",
+      "example": "Αυτοί οι άνθρωποι είναι φίλοι.",
+      "category": "pronouns"
+    },
+    {
+      "word": "εκείνος",
+      "pronunciation": "ekínos",
+      "meaning": "that",
+      "example": "Εκείνος ο άντρας είναι γιατρός.",
+      "category": "pronouns"
+    },
+    {
+      "word": "εκείνοι",
+      "pronunciation": "ekíni",
+      "meaning": "those",
+      "example": "Εκείνοι οι μαθητές διαβάζουν.",
+      "category": "pronouns"
+    },
+    {
+      "word": "Τι;",
+      "pronunciation": "Ti?",
+      "meaning": "What?",
+      "example": "Τι κάνεις;",
+      "category": "pronouns"
+    },
+    {
+      "word": "Ποιο;",
+      "pronunciation": "Pio?",
+      "meaning": "Which?",
+      "example": "Ποιο βιβλίο θέλεις;",
+      "category": "pronouns"
+    },
+    {
+      "word": "Ποιος;",
+      "pronunciation": "Pios?",
+      "meaning": "Who?",
+      "example": "Ποιος είναι αυτός;",
+      "category": "pronouns"
+    },
+    {
+      "word": "μηδέν",
+      "pronunciation": "midén",
+      "meaning": "zero",
+      "example": "Η θερμοκρασία είναι μηδέν.",
+      "category": "numbers"
+    },
+    {
+      "word": "ένα",
+      "pronunciation": "éna",
+      "meaning": "one",
+      "example": "Έχω ένα μήλο.",
+      "category": "numbers"
+    },
+    {
+      "word": "δύο",
+      "pronunciation": "dío",
+      "meaning": "two",
+      "example": "Έχω δύο παιδιά.",
+      "category": "numbers"
+    },
+    {
+      "word": "τρία",
+      "pronunciation": "tría",
+      "meaning": "three",
+      "example": "Τρία βιβλία στο τραπέζι.",
+      "category": "numbers"
+    },
+    {
+      "word": "τέσσερα",
+      "pronunciation": "tésera",
+      "meaning": "four",
+      "example": "Τέσσερα ποτήρια νερό.",
+      "category": "numbers"
+    },
+    {
+      "word": "πέντε",
+      "pronunciation": "pénde",
+      "meaning": "five",
+      "example": "Πέντε δάχτυλα στο χέρι.",
+      "category": "numbers"
+    },
+    {
+      "word": "έξι",
+      "pronunciation": "éxi",
+      "meaning": "six",
+      "example": "Έξι μέρες την εβδομάδα.",
+      "category": "numbers"
+    },
+    {
+      "word": "επτά",
+      "pronunciation": "eptá",
+      "meaning": "seven",
+      "example": "Επτά ημέρες την εβδομάδα.",
+      "category": "numbers"
+    },
+    {
+      "word": "οκτώ",
+      "pronunciation": "októ",
+      "meaning": "eight",
+      "example": "Οκτώ ώρες ύπνο.",
+      "category": "numbers"
+    },
+    {
+      "word": "εννιά",
+      "pronunciation": "eniá",
+      "meaning": "nine",
+      "example": "Εννιά μαθητές στην τάξη.",
+      "category": "numbers"
+    },
+    {
+      "word": "δέκα",
+      "pronunciation": "déka",
+      "meaning": "ten",
+      "example": "Δέκα ευρώ το κόστος.",
+      "category": "numbers"
+    },
+    {
+      "word": "η ημέρα",
+      "pronunciation": "i iméra",
+      "meaning": "day",
+      "example": "Καλή ημέρα!",
+      "category": "time"
+    },
+    {
+      "word": "ο μήνας",
+      "pronunciation": "o mínas",
+      "meaning": "month",
+      "example": "Αυτός ο μήνας είναι δύσκολος.",
+      "category": "time"
+    },
+    {
+      "word": "το έτος",
+      "pronunciation": "to étos",
+      "meaning": "year (formal)",
+      "example": "Το έτος 2025.",
+      "category": "time"
+    },
+    {
+      "word": "η χρονιά",
+      "pronunciation": "i hroniá",
+      "meaning": "year (informal)",
+      "example": "Καλή χρονιά!",
+      "category": "time"
+    },
+    {
+      "word": "η ημερομηνία",
+      "pronunciation": "i imerominía",
+      "meaning": "date",
+      "example": "Ποια είναι η ημερομηνία σήμερα;",
+      "category": "time"
+    },
+    {
+      "word": "η εβδομάδα",
+      "pronunciation": "i evdomáda",
+      "meaning": "week",
+      "example": "Μια εβδομάδα διακοπές.",
+      "category": "time"
+    },
+    {
+      "word": "το σήμερα",
+      "pronunciation": "to símera",
+      "meaning": "today",
+      "example": "Σήμερα είναι Δευτέρα.",
+      "category": "time"
+    },
+    {
+      "word": "το αύριο",
+      "pronunciation": "to ávrio",
+      "meaning": "tomorrow",
+      "example": "Αύριο πάμε εκδρομή.",
+      "category": "time"
+    },
+    {
+      "word": "το χθες",
+      "pronunciation": "to hthes",
+      "meaning": "yesterday",
+      "example": "Χθες ήταν κρύο.",
+      "category": "time"
+    },
+    {
+      "word": "η Δευτέρα",
+      "pronunciation": "i Deftéra",
+      "meaning": "Monday",
+      "example": "Τη Δευτέρα έχω μάθημα.",
+      "category": "time"
+    },
+    {
+      "word": "η Τρίτη",
+      "pronunciation": "i Tríti",
+      "meaning": "Tuesday",
+      "example": "Την Τρίτη πάω γυμναστήριο.",
+      "category": "time"
+    },
+    {
+      "word": "η Τετάρτη",
+      "pronunciation": "i Tetárti",
+      "meaning": "Wednesday",
+      "example": "Την Τετάρτη έχω ραντεβού.",
+      "category": "time"
+    },
+    {
+      "word": "η Πέμπτη",
+      "pronunciation": "i Pémpti",
+      "meaning": "Thursday",
+      "example": "Την Πέμπτη τρώμε έξω.",
+      "category": "time"
+    },
+    {
+      "word": "η Παρασκευή",
+      "pronunciation": "i Paraskeví",
+      "meaning": "Friday",
+      "example": "Την Παρασκευή τελειώνει η εβδομάδα.",
+      "category": "time"
+    },
+    {
+      "word": "το Σάββατο",
+      "pronunciation": "to Sávato",
+      "meaning": "Saturday",
+      "example": "Το Σάββατο ξυπνάω αργά.",
+      "category": "time"
+    },
+    {
+      "word": "η Κυριακή",
+      "pronunciation": "i Kiriakí",
+      "meaning": "Sunday",
+      "example": "Την Κυριακή πάμε εκκλησία.",
+      "category": "time"
+    },
+    {
+      "word": "η ώρα",
+      "pronunciation": "i óra",
+      "meaning": "hour",
+      "example": "Τι ώρα είναι;",
+      "category": "time"
+    },
+    {
+      "word": "το λεπτό",
+      "pronunciation": "to leptó",
+      "meaning": "minute",
+      "example": "Ένα λεπτό παρακαλώ.",
+      "category": "time"
+    },
+    {
+      "word": "το δευτερόλεπτο",
+      "pronunciation": "to defterólepto",
+      "meaning": "second",
+      "example": "Μόνο ένα δευτερόλεπτο!",
+      "category": "time"
+    },
+    {
+      "word": "το πρωί",
+      "pronunciation": "to proí",
+      "meaning": "morning",
+      "example": "Καλό πρωί!",
+      "category": "time"
+    },
+    {
+      "word": "το μεσημέρι",
+      "pronunciation": "to mesiméri",
+      "meaning": "afternoon/midday",
+      "example": "Το μεσημέρι τρώμε.",
+      "category": "time"
+    },
+    {
+      "word": "το απόγευμα",
+      "pronunciation": "to apógevma",
+      "meaning": "evening",
+      "example": "Το απόγευμα διαβάζω.",
+      "category": "time"
+    },
+    {
+      "word": "το βράδυ",
+      "pronunciation": "to vrádi",
+      "meaning": "night",
+      "example": "Το βράδυ κοιμάμαι.",
+      "category": "time"
+    },
+    {
+      "word": "η οικογένεια",
+      "pronunciation": "i ikoyénia",
+      "meaning": "family",
+      "example": "Η οικογένειά μου είναι μεγάλη.",
+      "category": "people"
+    },
+    {
+      "word": "οι γονείς",
+      "pronunciation": "i gonís",
+      "meaning": "parents",
+      "example": "Οι γονείς μου με αγαπούν.",
+      "category": "people"
+    },
+    {
+      "word": "η μητέρα",
+      "pronunciation": "i mitéra",
+      "meaning": "mother",
+      "example": "Η μητέρα μου μαγειρεύει.",
+      "category": "people"
+    },
+    {
+      "word": "ο πατέρας",
+      "pronunciation": "o patéras",
+      "meaning": "father",
+      "example": "Ο πατέρας μου δουλεύει.",
+      "category": "people"
+    },
+    {
+      "word": "η αδερφή",
+      "pronunciation": "i aderfí",
+      "meaning": "sister",
+      "example": "Η αδερφή μου σπουδάζει.",
+      "category": "people"
+    },
+    {
+      "word": "ο αδερφός",
+      "pronunciation": "o aderfós",
+      "meaning": "brother",
+      "example": "Ο αδερφός μου παίζει μπάλα.",
+      "category": "people"
+    },
+    {
+      "word": "η γιαγιά",
+      "pronunciation": "i yayá",
+      "meaning": "grandmother",
+      "example": "Η γιαγιά μου φτιάχνει γλυκά.",
+      "category": "people"
+    },
+    {
+      "word": "ο παππούς",
+      "pronunciation": "o papús",
+      "meaning": "grandfather",
+      "example": "Ο παππούς μου λέει ιστορίες.",
+      "category": "people"
+    },
+    {
+      "word": "το παιδί",
+      "pronunciation": "to pedí",
+      "meaning": "child",
+      "example": "Το παιδί παίζει.",
+      "category": "people"
+    },
+    {
+      "word": "η κόρη",
+      "pronunciation": "i kóri",
+      "meaning": "daughter",
+      "example": "Η κόρη μου είναι έξυπνη.",
+      "category": "people"
+    },
+    {
+      "word": "ο γιος",
+      "pronunciation": "o yos",
+      "meaning": "son",
+      "example": "Ο γιος μου σπουδάζει.",
+      "category": "people"
+    },
+    {
+      "word": "ο δικηγόρος",
+      "pronunciation": "o dikigóros",
+      "meaning": "lawyer",
+      "example": "Ο δικηγόρος με βοήθησε.",
+      "category": "professions"
+    },
+    {
+      "word": "ο γιατρός",
+      "pronunciation": "o yatrós",
+      "meaning": "doctor",
+      "example": "Ο γιατρός είναι καλός.",
+      "category": "professions"
+    },
+    {
+      "word": "ο νοσοκόμος",
+      "pronunciation": "o nosokómos",
+      "meaning": "nurse (male)",
+      "example": "Ο νοσοκόμος φροντίζει τους ασθενείς.",
+      "category": "professions"
+    },
+    {
+      "word": "ο αστυνομικός",
+      "pronunciation": "o astinomikós",
+      "meaning": "police officer",
+      "example": "Ο αστυνομικός προστατεύει.",
+      "category": "professions"
+    },
+    {
+      "word": "ο υπάλληλος",
+      "pronunciation": "o ipálilos",
+      "meaning": "employee",
+      "example": "Ο υπάλληλος εργάζεται σκληρά.",
+      "category": "professions"
+    },
+    {
+      "word": "ο δάσκαλος",
+      "pronunciation": "o dáskalos",
+      "meaning": "teacher (male)",
+      "example": "Ο δάσκαλος διδάσκει μαθηματικά.",
+      "category": "professions"
+    },
+    {
+      "word": "ο πωλητής",
+      "pronunciation": "o politís",
+      "meaning": "salesperson",
+      "example": "Ο πωλητής είναι ευγενικός.",
+      "category": "professions"
+    },
+    {
+      "word": "ο φαρμακοποιός",
+      "pronunciation": "o farmakopiós",
+      "meaning": "pharmacist",
+      "example": "Ο φαρμακοποιός δίνει φάρμακα.",
+      "category": "professions"
+    },
+    {
+      "word": "ο κύριος",
+      "pronunciation": "o kírios",
+      "meaning": "Mr.",
+      "example": "Ο κύριος Γιώργος είναι εδώ.",
+      "category": "titles"
+    },
+    {
+      "word": "η κυρία",
+      "pronunciation": "i kiría",
+      "meaning": "Ms./Mrs.",
+      "example": "Η κυρία Μαρία διδάσκει.",
+      "category": "titles"
+    },
+    {
+      "word": "ο δρόμος",
+      "pronunciation": "o drómos",
+      "meaning": "road/street",
+      "example": "Ο δρόμος είναι μεγάλος.",
+      "category": "places"
+    },
+    {
+      "word": "το σπίτι",
+      "pronunciation": "to spíti",
+      "meaning": "house",
+      "example": "Το σπίτι μου είναι μικρό.",
+      "category": "places"
+    },
+    {
+      "word": "το αεροδρόμιο",
+      "pronunciation": "to aerodrómio",
+      "meaning": "airport",
+      "example": "Πάμε στο αεροδρόμιο.",
+      "category": "places"
+    },
+    {
+      "word": "το κέντρο της πόλης",
+      "pronunciation": "to kéndro tis pólis",
+      "meaning": "city center",
+      "example": "Το κέντρο της πόλης είναι όμορφο.",
+      "category": "places"
+    },
+    {
+      "word": "το πάρκο",
+      "pronunciation": "to párko",
+      "meaning": "park",
+      "example": "Το πάρκο έχει δέντρα.",
+      "category": "places"
+    },
+    {
+      "word": "το ξενοδοχείο",
+      "pronunciation": "to xenodohío",
+      "meaning": "hotel",
+      "example": "Το ξενοδοχείο είναι ακριβό.",
+      "category": "places"
+    },
+    {
+      "word": "το νοσοκομείο",
+      "pronunciation": "to nosokomío",
+      "meaning": "hospital",
+      "example": "Το νοσοκομείο είναι κοντά.",
+      "category": "places"
+    },
+    {
+      "word": "η τράπεζα",
+      "pronunciation": "i trápeza",
+      "meaning": "bank",
+      "example": "Πάω στην τράπεζα.",
+      "category": "places"
+    },
+    {
+      "word": "το σχολείο",
+      "pronunciation": "to sholío",
+      "meaning": "school",
+      "example": "Το σχολείο αρχίζει στις οκτώ.",
+      "category": "places"
+    },
+    {
+      "word": "το σούπερ μάρκετ",
+      "pronunciation": "to súper márket",
+      "meaning": "supermarket",
+      "example": "Το σούπερ μάρκετ είναι ανοιχτό.",
+      "category": "places"
+    },
+    {
+      "word": "το βιβλίο",
+      "pronunciation": "to vivlío",
+      "meaning": "book",
+      "example": "Το βιβλίο είναι ενδιαφέρον.",
+      "category": "objects"
+    },
+    {
+      "word": "το τετράδιο",
+      "pronunciation": "to tetrádio",
+      "meaning": "notebook",
+      "example": "Γράφω στο τετράδιο.",
+      "category": "objects"
+    },
+    {
+      "word": "το μολύβι",
+      "pronunciation": "to molívi",
+      "meaning": "pencil",
+      "example": "Το μολύβι είναι κίτρινο.",
+      "category": "objects"
+    },
+    {
+      "word": "το στυλό",
+      "pronunciation": "to stiló",
+      "meaning": "pen",
+      "example": "Το στυλό γράφει μπλε.",
+      "category": "objects"
+    },
+    {
+      "word": "ο υπολογιστής",
+      "pronunciation": "o ipoloyistís",
+      "meaning": "computer",
+      "example": "Ο υπολογιστής είναι γρήγορος.",
+      "category": "objects"
+    },
+    {
+      "word": "ο φορητός υπολογιστής",
+      "pronunciation": "o foritós ipoloyistís",
+      "meaning": "laptop",
+      "example": "Ο φορητός υπολογιστής είναι ελαφρύς.",
+      "category": "objects"
+    },
+    {
+      "word": "το κινητό",
+      "pronunciation": "to kinitó",
+      "meaning": "cellphone",
+      "example": "Το κινητό μου χτυπάει.",
+      "category": "objects"
+    },
+    {
+      "word": "το σώμα",
+      "pronunciation": "to sóma",
+      "meaning": "body",
+      "example": "Το σώμα χρειάζεται άσκηση.",
+      "category": "body"
+    },
+    {
+      "word": "το κεφάλι",
+      "pronunciation": "to kefáli",
+      "meaning": "head",
+      "example": "Το κεφάλι μου πονάει.",
+      "category": "body"
+    },
+    {
+      "word": "ο ώμος",
+      "pronunciation": "o ómos",
+      "meaning": "shoulder",
+      "example": "Ο ώμος μου είναι δυνατός.",
+      "category": "body"
+    },
+    {
+      "word": "το χέρι",
+      "pronunciation": "to héri",
+      "meaning": "hand",
+      "example": "Το χέρι μου είναι καθαρό.",
+      "category": "body"
+    },
+    {
+      "word": "το πόδι",
+      "pronunciation": "to pódi",
+      "meaning": "leg/foot",
+      "example": "Το πόδι μου είναι κουρασμένο.",
+      "category": "body"
+    },
+    {
+      "word": "το πρόσωπο",
+      "pronunciation": "to prósopo",
+      "meaning": "face",
+      "example": "Το πρόσωπό σου είναι όμορφο.",
+      "category": "body"
+    },
+    {
+      "word": "το στήθος",
+      "pronunciation": "to stíthos",
+      "meaning": "chest",
+      "example": "Το στήθος ανεβοκατεβαίνει.",
+      "category": "body"
+    },
+    {
+      "word": "το μάτι",
+      "pronunciation": "to máti",
+      "meaning": "eye",
+      "example": "Το μάτι βλέπει.",
+      "category": "body"
+    },
+    {
+      "word": "το αυτί",
+      "pronunciation": "to aftí",
+      "meaning": "ear",
+      "example": "Το αυτί ακούει.",
+      "category": "body"
+    },
+    {
+      "word": "η μύτη",
+      "pronunciation": "i míti",
+      "meaning": "nose",
+      "example": "Η μύτη μυρίζει.",
+      "category": "body"
+    },
+    {
+      "word": "το στόμα",
+      "pronunciation": "to stóma",
+      "meaning": "mouth",
+      "example": "Το στόμα μιλάει.",
+      "category": "body"
+    },
+    {
+      "word": "το πιρούνι",
+      "pronunciation": "to pirúni",
+      "meaning": "fork",
+      "example": "Το πιρούνι είναι στο τραπέζι.",
+      "category": "food"
+    },
+    {
+      "word": "το μαχαίρι",
+      "pronunciation": "to mahéri",
+      "meaning": "knife",
+      "example": "Το μαχαίρι κόβει.",
+      "category": "food"
+    },
+    {
+      "word": "το κουτάλι",
+      "pronunciation": "to kutáli",
+      "meaning": "spoon",
+      "example": "Το κουτάλι είναι για τη σούπα.",
+      "category": "food"
+    },
+    {
+      "word": "το πιάτο",
+      "pronunciation": "to piáto",
+      "meaning": "plate",
+      "example": "Το πιάτο είναι άδειο.",
+      "category": "food"
+    },
+    {
+      "word": "το ποτήρι",
+      "pronunciation": "to potíri",
+      "meaning": "glass",
+      "example": "Το ποτήρι έχει νερό.",
+      "category": "food"
+    },
+    {
+      "word": "το νερό",
+      "pronunciation": "to neró",
+      "meaning": "water",
+      "example": "Το νερό είναι κρύο.",
+      "category": "food"
+    },
+    {
+      "word": "το κρασί",
+      "pronunciation": "to krasí",
+      "meaning": "wine",
+      "example": "Το κρασί είναι κόκκινο.",
+      "category": "food"
+    },
+    {
+      "word": "το τσάι",
+      "pronunciation": "to tsái",
+      "meaning": "tea",
+      "example": "Το τσάι είναι ζεστό.",
+      "category": "food"
+    },
+    {
+      "word": "η μπύρα",
+      "pronunciation": "i bíra",
+      "meaning": "beer",
+      "example": "Η μπύρα είναι κρύα.",
+      "category": "food"
+    },
+    {
+      "word": "το λαχανικό",
+      "pronunciation": "to lahanikó",
+      "meaning": "vegetable",
+      "example": "Το λαχανικό είναι υγιεινό.",
+      "category": "food"
+    },
+    {
+      "word": "η ντομάτα",
+      "pronunciation": "i domáta",
+      "meaning": "tomato",
+      "example": "Η ντομάτα είναι κόκκινη.",
+      "category": "food"
+    },
+    {
+      "word": "η πατάτα",
+      "pronunciation": "i patáta",
+      "meaning": "potato",
+      "example": "Η πατάτα είναι νόστιμη.",
+      "category": "food"
+    },
+    {
+      "word": "το κοτόπουλο",
+      "pronunciation": "to kotópulo",
+      "meaning": "chicken",
+      "example": "Το κοτόπουλο είναι στο φούρνο.",
+      "category": "food"
+    },
+    {
+      "word": "το χοιρινό",
+      "pronunciation": "to hirinó",
+      "meaning": "pork",
+      "example": "Το χοιρινό είναι τρυφερό.",
+      "category": "food"
+    },
+    {
+      "word": "το μοσχάρι",
+      "pronunciation": "to moshári",
+      "meaning": "beef",
+      "example": "Το μοσχάρι είναι ακριβό.",
+      "category": "food"
+    },
+    {
+      "word": "το φρούτο",
+      "pronunciation": "to frúto",
+      "meaning": "fruit",
+      "example": "Το φρούτο είναι γλυκό.",
+      "category": "food"
+    },
+    {
+      "word": "το αυγό",
+      "pronunciation": "to avgó",
+      "meaning": "egg",
+      "example": "Το αυγό είναι βραστό.",
+      "category": "food"
+    },
+    {
+      "word": "το γάλα",
+      "pronunciation": "to gála",
+      "meaning": "milk",
+      "example": "Το γάλα είναι φρέσκο.",
+      "category": "food"
+    },
+    {
+      "word": "πηγαίνω",
+      "pronunciation": "piyéno",
+      "meaning": "to go",
+      "example": "Πηγαίνω στο σχολείο.",
+      "category": "verbs"
+    },
+    {
+      "word": "παίρνω",
+      "pronunciation": "pérno",
+      "meaning": "to take/get",
+      "example": "Παίρνω το βιβλίο.",
+      "category": "verbs"
+    },
+    {
+      "word": "δίνω",
+      "pronunciation": "díno",
+      "meaning": "to give",
+      "example": "Δίνω ένα δώρο.",
+      "category": "verbs"
+    },
+    {
+      "word": "φτιάχνω",
+      "pronunciation": "ftiáhno",
+      "meaning": "to make",
+      "example": "Φτιάχνω καφέ.",
+      "category": "verbs"
+    },
+    {
+      "word": "κάνω",
+      "pronunciation": "káno",
+      "meaning": "to do",
+      "example": "Κάνω τη δουλειά μου.",
+      "category": "verbs"
+    },
+    {
+      "word": "δουλεύω",
+      "pronunciation": "dulévo",
+      "meaning": "to work",
+      "example": "Δουλεύω κάθε μέρα.",
+      "category": "verbs"
+    },
+    {
+      "word": "βάζω",
+      "pronunciation": "vázo",
+      "meaning": "to put",
+      "example": "Βάζω το βιβλίο στο τραπέζι.",
+      "category": "verbs"
+    },
+    {
+      "word": "δοκιμάζω",
+      "pronunciation": "dokimázo",
+      "meaning": "to try",
+      "example": "Δοκιμάζω νέο φαγητό.",
+      "category": "verbs"
+    },
+    {
+      "word": "λέω",
+      "pronunciation": "léo",
+      "meaning": "to say/tell",
+      "example": "Λέω την αλήθεια.",
+      "category": "verbs"
+    },
+    {
+      "word": "μιλάω",
+      "pronunciation": "miláo",
+      "meaning": "to talk/speak",
+      "example": "Μιλάω ελληνικά.",
+      "category": "verbs"
+    },
+    {
+      "word": "ρωτάω",
+      "pronunciation": "rotáo",
+      "meaning": "to ask",
+      "example": "Ρωτάω μια ερώτηση.",
+      "category": "verbs"
+    },
+    {
+      "word": "μετακινώ",
+      "pronunciation": "metakinó",
+      "meaning": "to move (something)",
+      "example": "Μετακινώ την καρέκλα.",
+      "category": "verbs"
+    },
+    {
+      "word": "σκέφτομαι",
+      "pronunciation": "skéftome",
+      "meaning": "to think",
+      "example": "Σκέφτομαι την απάντηση.",
+      "category": "verbs"
+    },
+    {
+      "word": "αισθάνομαι",
+      "pronunciation": "esthánome",
+      "meaning": "to feel",
+      "example": "Αισθάνομαι καλά.",
+      "category": "verbs"
+    },
+    {
+      "word": "ξέρω",
+      "pronunciation": "xéro",
+      "meaning": "to know",
+      "example": "Ξέρω την απάντηση.",
+      "category": "verbs"
+    },
+    {
+      "word": "θέλω",
+      "pronunciation": "thélo",
+      "meaning": "to want",
+      "example": "Θέλω νερό.",
+      "category": "verbs"
+    },
+    {
+      "word": "πιστεύω",
+      "pronunciation": "pistévo",
+      "meaning": "to believe",
+      "example": "Πιστεύω σε σένα.",
+      "category": "verbs"
+    },
+    {
+      "word": "καταλαβαίνω",
+      "pronunciation": "katalavéno",
+      "meaning": "to understand",
+      "example": "Καταλαβαίνω τι λες.",
+      "category": "verbs"
+    },
+    {
+      "word": "αγαπάω",
+      "pronunciation": "agapáo",
+      "meaning": "to love",
+      "example": "Αγαπάω την οικογένειά μου.",
+      "category": "verbs"
+    },
+    {
+      "word": "θυμάμαι",
+      "pronunciation": "thimáme",
+      "meaning": "to remember",
+      "example": "Θυμάμαι το όνομά σου.",
+      "category": "verbs"
+    },
+    {
+      "word": "είμαι",
+      "pronunciation": "íme",
+      "meaning": "to be",
+      "example": "Είμαι χαρούμενος.",
+      "category": "verbs"
+    },
+    {
+      "word": "έχω",
+      "pronunciation": "ého",
+      "meaning": "to have",
+      "example": "Έχω ένα σκύλο.",
+      "category": "verbs"
+    },
+    {
+      "word": "παίζω",
+      "pronunciation": "pézo",
+      "meaning": "to play",
+      "example": "Παίζω μουσική.",
+      "category": "verbs"
+    },
+    {
+      "word": "πεινάω",
+      "pronunciation": "pináo",
+      "meaning": "to be hungry",
+      "example": "Πεινάω πολύ.",
+      "category": "verbs"
+    },
+    {
+      "word": "βλέπω",
+      "pronunciation": "vlépo",
+      "meaning": "to see",
+      "example": "Βλέπω τον ήλιο.",
+      "category": "verbs"
+    },
+    {
+      "word": "διαβάζω",
+      "pronunciation": "diavázo",
+      "meaning": "to read",
+      "example": "Διαβάζω ένα βιβλίο.",
+      "category": "verbs"
+    },
+    {
+      "word": "μαθαίνω",
+      "pronunciation": "mathéno",
+      "meaning": "to learn",
+      "example": "Μαθαίνω ελληνικά.",
+      "category": "verbs"
+    },
+    {
+      "word": "περπατάω",
+      "pronunciation": "perpatáo",
+      "meaning": "to walk",
+      "example": "Περπατάω στο πάρκο.",
+      "category": "verbs"
+    },
+    {
+      "word": "τρέχω",
+      "pronunciation": "trého",
+      "meaning": "to run",
+      "example": "Τρέχω γρήγορα.",
+      "category": "verbs"
+    },
+    {
+      "word": "φεύγω",
+      "pronunciation": "févgo",
+      "meaning": "to leave",
+      "example": "Φεύγω τώρα.",
+      "category": "verbs"
+    },
+    {
+      "word": "γράφω",
+      "pronunciation": "gráfo",
+      "meaning": "to write",
+      "example": "Γράφω ένα γράμμα.",
+      "category": "verbs"
+    },
+    {
+      "word": "απαντάω",
+      "pronunciation": "apandáo",
+      "meaning": "to answer",
+      "example": "Απαντάω στην ερώτηση.",
+      "category": "verbs"
+    },
+    {
+      "word": "μετράω",
+      "pronunciation": "metráo",
+      "meaning": "to count",
+      "example": "Μετράω μέχρι δέκα.",
+      "category": "verbs"
+    },
+    {
+      "word": "μεγάλος",
+      "pronunciation": "megálos",
+      "meaning": "big",
+      "example": "Το σπίτι είναι μεγάλο.",
+      "category": "adjectives"
+    },
+    {
+      "word": "μικρός",
+      "pronunciation": "mikrós",
+      "meaning": "small",
+      "example": "Το παιδί είναι μικρό.",
+      "category": "adjectives"
+    },
+    {
+      "word": "φαρδύς",
+      "pronunciation": "fardís",
+      "meaning": "wide",
+      "example": "Ο δρόμος είναι φαρδύς.",
+      "category": "adjectives"
+    },
+    {
+      "word": "στενός",
+      "pronunciation": "stenós",
+      "meaning": "narrow",
+      "example": "Το πέρασμα είναι στενό.",
+      "category": "adjectives"
+    },
+    {
+      "word": "κόκκινο",
+      "pronunciation": "kókino",
+      "meaning": "red",
+      "example": "Το μήλο είναι κόκκινο.",
+      "category": "colors"
+    },
+    {
+      "word": "μπλε",
+      "pronunciation": "ble",
+      "meaning": "blue",
+      "example": "Ο ουρανός είναι μπλε.",
+      "category": "colors"
+    },
+    {
+      "word": "πράσινο",
+      "pronunciation": "prásino",
+      "meaning": "green",
+      "example": "Το δέντρο είναι πράσινο.",
+      "category": "colors"
+    },
+    {
+      "word": "κίτρινο",
+      "pronunciation": "kítrino",
+      "meaning": "yellow",
+      "example": "Ο ήλιος είναι κίτρινος.",
+      "category": "colors"
+    },
+    {
+      "word": "καφέ",
+      "pronunciation": "kafé",
+      "meaning": "brown",
+      "example": "Το ξύλο είναι καφέ.",
+      "category": "colors"
+    },
+    {
+      "word": "μαύρο",
+      "pronunciation": "mávro",
+      "meaning": "black",
+      "example": "Η νύχτα είναι μαύρη.",
+      "category": "colors"
+    },
+    {
+      "word": "άσπρο",
+      "pronunciation": "áspro",
+      "meaning": "white",
+      "example": "Το χιόνι είναι άσπρο.",
+      "category": "colors"
+    },
+    {
+      "word": "πορτοκαλί",
+      "pronunciation": "portokalí",
+      "meaning": "orange",
+      "example": "Το πορτοκάλι είναι πορτοκαλί.",
+      "category": "colors"
+    },
+    {
+      "word": "ροζ",
+      "pronunciation": "roz",
+      "meaning": "pink",
+      "example": "Το λουλούδι είναι ροζ.",
+      "category": "colors"
+    },
+    {
+      "word": "γκρι",
+      "pronunciation": "gkri",
+      "meaning": "gray",
+      "example": "Το σύννεφο είναι γκρι.",
+      "category": "colors"
+    },
+    {
+      "word": "μωβ",
+      "pronunciation": "mov",
+      "meaning": "purple",
+      "example": "Το σταφύλι είναι μωβ.",
+      "category": "colors"
+    },
+    {
+      "word": "ασημί",
+      "pronunciation": "asimí",
+      "meaning": "silver",
+      "example": "Το κουτάλι είναι ασημί.",
+      "category": "colors"
+    },
+    {
+      "word": "χρυσό",
+      "pronunciation": "hrisó",
+      "meaning": "gold",
+      "example": "Το δαχτυλίδι είναι χρυσό.",
+      "category": "colors"
+    },
+    {
+      "word": "όμορφος",
+      "pronunciation": "ómorfos",
+      "meaning": "handsome/beautiful",
+      "example": "Είναι όμορφος άντρας.",
+      "category": "adjectives"
+    },
+    {
+      "word": "όμορφη",
+      "pronunciation": "ómorfi",
+      "meaning": "beautiful (feminine)",
+      "example": "Είναι όμορφη γυναίκα.",
+      "category": "adjectives"
+    },
+    {
+      "word": "άσχημος",
+      "pronunciation": "áshimos",
+      "meaning": "ugly",
+      "example": "Το κτίριο είναι άσχημο.",
+      "category": "adjectives"
+    },
+    {
+      "word": "γοητευτικός",
+      "pronunciation": "goiteftikós",
+      "meaning": "charming",
+      "example": "Είναι γοητευτικός άνθρωπος.",
+      "category": "adjectives"
+    },
+    {
+      "word": "χοντρός",
+      "pronunciation": "hontrós",
+      "meaning": "fat",
+      "example": "Ο γάτος είναι χοντρός.",
+      "category": "adjectives"
+    },
+    {
+      "word": "αδύνατος",
+      "pronunciation": "adínatos",
+      "meaning": "thin/weak",
+      "example": "Είναι αδύνατος άνθρωπος.",
+      "category": "adjectives"
+    },
+    {
+      "word": "ψηλός",
+      "pronunciation": "psilós",
+      "meaning": "tall",
+      "example": "Το δέντρο είναι ψηλό.",
+      "category": "adjectives"
+    },
+    {
+      "word": "κοντός",
+      "pronunciation": "kondós",
+      "meaning": "short",
+      "example": "Το παιδί είναι κοντό.",
+      "category": "adjectives"
+    },
+    {
+      "word": "δυνατός",
+      "pronunciation": "dinatós",
+      "meaning": "strong",
+      "example": "Ο αθλητής είναι δυνατός.",
+      "category": "adjectives"
+    },
+    {
+      "word": "αδύναμος",
+      "pronunciation": "adínamos",
+      "meaning": "weak",
+      "example": "Το φως είναι αδύναμο.",
+      "category": "adjectives"
+    },
+    {
+      "word": "ηλιόλουστος",
+      "pronunciation": "iliólustos",
+      "meaning": "sunny",
+      "example": "Η μέρα είναι ηλιόλουστη.",
+      "category": "weather"
+    },
+    {
+      "word": "βροχερός",
+      "pronunciation": "vroherós",
+      "meaning": "rainy",
+      "example": "Ο καιρός είναι βροχερός.",
+      "category": "weather"
+    },
+    {
+      "word": "συννεφιασμένος",
+      "pronunciation": "sinefiazménos",
+      "meaning": "cloudy",
+      "example": "Ο ουρανός είναι συννεφιασμένος.",
+      "category": "weather"
+    },
+    {
+      "word": "ζεστός",
+      "pronunciation": "zestós",
+      "meaning": "warm/hot",
+      "example": "Ο καφές είναι ζεστός.",
+      "category": "weather"
+    },
+    {
+      "word": "κρύος",
+      "pronunciation": "kríos",
+      "meaning": "cold",
+      "example": "Ο χειμώνας είναι κρύος.",
+      "category": "weather"
+    },
+    {
+      "word": "καλός",
+      "pronunciation": "kalós",
+      "meaning": "good",
+      "example": "Είναι καλός άνθρωπος.",
+      "category": "emotions"
+    },
+    {
+      "word": "ευγενικός",
+      "pronunciation": "evyenikós",
+      "meaning": "kind/polite",
+      "example": "Ο πωλητής είναι ευγενικός.",
+      "category": "emotions"
+    },
+    {
+      "word": "φιλικός",
+      "pronunciation": "filikós",
+      "meaning": "friendly",
+      "example": "Ο γείτονας είναι φιλικός.",
+      "category": "emotions"
+    },
+    {
+      "word": "χαρούμενος",
+      "pronunciation": "harúmenos",
+      "meaning": "happy",
+      "example": "Το παιδί είναι χαρούμενο.",
+      "category": "emotions"
+    },
+    {
+      "word": "αστείος",
+      "pronunciation": "astíos",
+      "meaning": "funny",
+      "example": "Η ταινία είναι αστεία.",
+      "category": "emotions"
+    },
+    {
+      "word": "κακός",
+      "pronunciation": "kakós",
+      "meaning": "bad",
+      "example": "Ο καιρός είναι κακός.",
+      "category": "emotions"
+    },
+    {
+      "word": "θυμωμένος",
+      "pronunciation": "thimoménos",
+      "meaning": "angry",
+      "example": "Είναι θυμωμένος μαζί μου.",
+      "category": "emotions"
+    },
+    {
+      "word": "αγενής",
+      "pronunciation": "ayenís",
+      "meaning": "rude",
+      "example": "Ο υπάλληλος ήταν αγενής.",
+      "category": "emotions"
+    },
+    {
+      "word": "και",
+      "pronunciation": "ke",
+      "meaning": "and",
+      "example": "Εγώ και εσύ.",
+      "category": "conjunctions"
+    },
+    {
+      "word": "αν",
+      "pronunciation": "an",
+      "meaning": "if",
+      "example": "Αν θέλεις, έλα.",
+      "category": "conjunctions"
+    },
+    {
+      "word": "γιατί",
+      "pronunciation": "yatí",
+      "meaning": "because/why",
+      "example": "Γιατί αργείς;",
+      "category": "conjunctions"
+    },
+    {
+      "word": "αλλά",
+      "pronunciation": "alá",
+      "meaning": "but",
+      "example": "Θέλω αλλά δεν μπορώ.",
+      "category": "conjunctions"
+    },
+    {
+      "word": "όμως",
+      "pronunciation": "ómos",
+      "meaning": "however",
+      "example": "Είναι ακριβό, όμως καλό.",
+      "category": "conjunctions"
+    },
+    {
+      "word": "ώστε",
+      "pronunciation": "óste",
+      "meaning": "so that",
+      "example": "Διάβασε ώστε να μάθεις.",
+      "category": "conjunctions"
+    },
+    {
+      "word": "όταν",
+      "pronunciation": "ótan",
+      "meaning": "when",
+      "example": "Όταν έρθεις, θα μιλήσουμε.",
+      "category": "conjunctions"
+    },
+    {
+      "word": "πριν",
+      "pronunciation": "prin",
+      "meaning": "before",
+      "example": "Φάε πριν φύγεις.",
+      "category": "conjunctions"
+    },
+    {
+      "word": "ή",
+      "pronunciation": "í",
+      "meaning": "or",
+      "example": "Καφέ ή τσάι;",
+      "category": "conjunctions"
+    }
+  ]
+}
