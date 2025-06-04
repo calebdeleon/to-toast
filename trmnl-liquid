@@ -1,5 +1,5 @@
 {% comment %} Pick a random card from the array {% endcomment %}
-{% assign random_index = 'now' | date: '%j' | modulo: cards.size %}
+{% assign random_index = 'now' | date: '%s' | modulo: cards.size %}
 {% assign random_card = cards[random_index] %}
 
 <div class="layout">
