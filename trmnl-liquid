@@ -2,6 +2,9 @@
 {% assign random_index = 'now' | date: '%j' | modulo: cards.size %}
 {% assign random_card = cards[random_index] %}
 
+
+{% comment %} The code above can be copied in to shared. Everything below must be pasted in to each view {% endcomment %}
+
 <div class="layout">
   <div class="columns">
     <div class="column">
