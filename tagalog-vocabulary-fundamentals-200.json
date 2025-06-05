@@ -1,5 +1,5 @@
-# Top 200 Fundamental Tagalog Words - JSON Collection
-# Based on comprehensive research of frequency dictionaries and essential vocabulary for Tagalog beginners, here is the requested JSON structure containing the 200 most fundamental Tagalog words:
+// Top 200 Fundamental Tagalog Words - JSON Collection
+// Based on comprehensive research of frequency dictionaries and essential vocabulary for Tagalog beginners, here is the requested JSON structure containing the 200 most fundamental Tagalog words:
 
 {
   "cards": [
@@ -204,13 +204,12 @@
     {"word": "trabaho", "pronunciation": "trah-bah-HOH", "meaning": "work, job", "example": "", "category": "professions"}
   ]
 }
-```
 
-This JSON collection contains the 200 most fundamental Tagalog words carefully selected based on frequency of use and practical importance for beginners. The words are organized into appropriate categories including pronouns, numbers, time, people, body parts, verbs, adjectives, colors, food, places, objects, conjunctions, and common words. Each entry includes accurate Tagalog pronunciation guides using phonetic spelling rather than IPA symbols, making it accessible for English speakers learning Tagalog.
+// This JSON collection contains the 200 most fundamental Tagalog words carefully selected based on frequency of use and practical importance for beginners. The words are organized into appropriate categories including pronouns, numbers, time, people, body parts, verbs, adjectives, colors, food, places, objects, conjunctions, and common words. Each entry includes accurate Tagalog pronunciation guides using phonetic spelling rather than IPA symbols, making it accessible for English speakers learning Tagalog.
 
-**Key Features:**
-- **Pronunciation**: Uses simple phonetic spelling with stressed syllables in capitals
-- **Categories**: Logically organized for systematic learning
-- **Priority**: Words ordered by practical importance and frequency
-- **Accuracy**: Based on authoritative Tagalog language resources and frequency dictionaries
-- **Completeness**: Covers essential vocabulary across all major word types needed for basic communication
+// **Key Features:**
+// - **Pronunciation**: Uses simple phonetic spelling with stressed syllables in capitals
+// - **Categories**: Logically organized for systematic learning
+// - **Priority**: Words ordered by practical importance and frequency
+// - **Accuracy**: Based on authoritative Tagalog language resources and frequency dictionaries
+// - **Completeness**: Covers essential vocabulary across all major word types needed for basic communication
