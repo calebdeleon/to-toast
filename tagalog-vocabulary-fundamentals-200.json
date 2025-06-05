@@ -1,8 +1,6 @@
 # Top 200 Fundamental Tagalog Words - JSON Collection
+# Based on comprehensive research of frequency dictionaries and essential vocabulary for Tagalog beginners, here is the requested JSON structure containing the 200 most fundamental Tagalog words:
 
-Based on comprehensive research of frequency dictionaries and essential vocabulary for Tagalog beginners, here is the requested JSON structure containing the 200 most fundamental Tagalog words:
-
-```json
 {
   "cards": [
     {"word": "ako", "pronunciation": "ah-KO", "meaning": "I, me", "example": "", "category": "pronouns"},
